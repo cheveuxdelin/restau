@@ -1,0 +1,13 @@
+button {
+  font-weight: 300;
+  letter-spacing: 1px;
+  font-size: 1.2rem;
+
+
+  border: none;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  width: min(500px, 100%);
+  margin-bottom: 10px;
+}
